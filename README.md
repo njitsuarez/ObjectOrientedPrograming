@@ -9,6 +9,10 @@ call a function twice than to copy and paste the body!" (Downey)
 [link to an example of encapsulation ] (https://github.com/njitsuarez/ObjectOrientedPrograming/blob/master/addition.py)
 
 ###Abstraction
+Abstraction and encapsulation are often used synonymous with each other. 
+Abstraction is achieved through encapsulation and refers to the steps taken within the function.
+The steps taken to create a square using turtle in python is a good example of inheritance.
+
 
 ###Inheritance
 
